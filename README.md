@@ -1,1 +1,1 @@
-# PSTCC-2021-Final-PHP-Assignment
+This was my final assignment in my PHP class in spring semester of 2021. It consisted of organizing an SQL database on screen with the ability to sort, as well as gain acess to the foreign key table to display extra information on the single entry. The table access will not work as the database was hosted on a school server, so all login info was scrubbed. This is more so that the code can be seen, as without the db it will not function.
